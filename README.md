@@ -40,7 +40,7 @@ Images with empty alt text are left as-is:
 
 ### Manual
 
-1. Download the latest release from [GitHub Releases](https://github.com/SunnyYYLin/better-figures/releases).
+1. Download the latest release from [GitHub Releases](https://github.com/SunnyYYLin/obsidian-better-figures/releases).
 2. Copy `main.js`, `manifest.json`, and `styles.css` into `<vault>/.obsidian/plugins/better-figures/`.
 3. Enable the plugin in **Settings → Community plugins**.
 
