@@ -1,11 +1,9 @@
 {
 	"id": "better-figures",
 	"name": "Better Figures",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "1.8.7",
-	"description": "Enhanced figure support for Obsidian, including captions for native image syntax.",
+	"description": "Add captions to images using native Markdown syntax.",
 	"author": "SunnyYYLin",
-	"authorUrl": "",
-	"fundingUrl": "",
 	"isDesktopOnly": false
 }
